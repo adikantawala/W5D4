@@ -48,5 +48,5 @@ re1 = [1, 2, 3].myReduce(function(acc, el) {
 re2 = [1, 2, 3].myReduce(function(acc, el) {
   return acc + el;
 }, 25); // => 31
-console.log(re2);
+// console.log(re2);
 
